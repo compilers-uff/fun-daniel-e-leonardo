@@ -20,4 +20,9 @@ de uma função com um número indefinido de parâmetros e sua chamada.
 3. Teste sua estensão implementando versões que utilizem recursão de
    cauda (_tail recursion_) das funções ```fat``` e ```fib```. Modifique também o
    exemplo da função ```apply```.
+
+
+## Observações
+
+Clonar o repositório para a pasta do maude, se colocar em outra pasta alterar o fun.sh para obter o path correto da instalação do maude
    
