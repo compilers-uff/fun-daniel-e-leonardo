@@ -1,3 +1,14 @@
+## Observações
+
+Alunos: Daniel Paiva e Leonardo Pereira
+
+1 - Clonar o repositório para a pasta do maude, se colocar em outra pasta alterar o fun.sh para obter o path correto da instalação do maude
+
+2 - O separador entre os parâmetros passados em uma função é um "&". Exemplo: normal --> fat(5)   tail recursion --> fat(5 & 1)
+
+3 - Versões com tail recursion são os arquivos fat_tail.fun, fib_tail.fun e apply_tail.fun
+
+
 # Trabalho de conclusão do curso de Compiladores 2021.1
 
 Christiano Braga  
@@ -20,9 +31,3 @@ de uma função com um número indefinido de parâmetros e sua chamada.
 3. Teste sua estensão implementando versões que utilizem recursão de
    cauda (_tail recursion_) das funções ```fat``` e ```fib```. Modifique também o
    exemplo da função ```apply```.
-
-
-## Observações
-
-Clonar o repositório para a pasta do maude, se colocar em outra pasta alterar o fun.sh para obter o path correto da instalação do maude
-   
