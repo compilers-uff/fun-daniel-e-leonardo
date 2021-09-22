@@ -8,8 +8,8 @@ fun fib(x & a & b) =
     else if x == 1 then b
     else fib(x - 1 & b & a + b),
 
-fun apply_fat(f) =
+fun apply_fat(f & x & acc) =
     f(x & acc),
 
-fun apply_fib(f) =
+fun apply_fib(f & x & a & b) =
     f(x & a & b)

@@ -1,6 +1,6 @@
 ## Observações
 
-Alunos: Daniel Paiva e Leonardo Pereira
+Alunos: Daniel Paiva(116031041) e Leonardo Pereira(116031075)
 
 1 - Clonar o repositório para a pasta do maude, se colocar em outra pasta alterar o fun.sh para obter o path correto da instalação do maude
 
